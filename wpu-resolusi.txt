@@ -4,5 +4,5 @@ WPU RESOLUSI
   - Membuat forum diskusi
   - Kolaborasi dgn lebih byk expert
   - Membuat vlog
-  - Membuat bootcamp
+  - Membuat live coding
   
